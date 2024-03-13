@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
             drawingView!!.setSizeForBrush(30.toFloat())
             brushDialog.dismiss()
         }
-
+        // Teszt
         brushDialog.show()
     }
 
