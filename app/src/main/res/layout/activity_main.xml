@@ -165,6 +165,15 @@
             android:src="@drawable/ic_baseline_undo_24" />
 
         <ImageButton
+            android:id="@+id/ib_save"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="5dp"
+            android:contentDescription="@string/brush_size"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_baseline_save_24" />
+
+        <ImageButton
             android:id="@+id/ib_brush"
             android:layout_width="50dp"
             android:layout_height="50dp"
