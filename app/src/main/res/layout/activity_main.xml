@@ -25,7 +25,7 @@
             android:layout_height="match_parent"
             android:contentDescription="@string/brush_size"
             android:scaleType="centerCrop"
-            android:src="@drawable/paris_image" />
+            tools:src="@drawable/paris_image" />
 
         <eu.tutorials.naszi.kidsdrawingapp.DrawingView
             android:id="@+id/drawing_view"
